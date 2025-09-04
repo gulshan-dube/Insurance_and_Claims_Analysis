@@ -37,11 +37,8 @@ Each chart is designed to uncover patterns and support data-driven decisions:
 - Drill-through capabilities for detailed analysis
 - Clean, intuitive layout for stakeholder presentations
 
-## 🖼️ Sample Dashboard Snippets
-> *(Insert screenshots here with brief captions)*  
-> Example:  
+## 🖼️ BI Dash Snip
 > ![Dashboard Preview](insurance_claims_analysis_dash.png)
-> *Visualizing claim distribution by vehicle usage*
 
 ## 🛠️ Tools Used
 - **Power BI** – Dashboard development
